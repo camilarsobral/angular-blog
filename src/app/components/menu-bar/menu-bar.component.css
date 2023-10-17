@@ -1,0 +1,6 @@
+.container-menu-bar>ul {
+	display: flex;
+	flex-direction: row;
+	gap: 60px;
+	list-style: none;
+}
